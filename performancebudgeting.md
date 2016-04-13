@@ -135,7 +135,7 @@ Who will be on the team that will review the budget for each priority? Consider 
 
 ---
 
-<hr?
+<hr>
 
 ### Appendix A - Priority Areas in Examples Cities
 
