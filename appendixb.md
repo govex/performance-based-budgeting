@@ -35,7 +35,7 @@ Lincoln, NE, developed 132 performance indicators to measure the City's progress
 
 **_Goal 1: Maintain community's health status_**
 
-![Alt text](https://github.com/govex/performance-based-budgeting/blob/master/Images/LincolnHealthyPeopleGoal.png)
+<img src="https://github.com/govex/performance-based-budgeting/blob/master/Images/LincolnHealthyPeopleGoal.png">
 
 About this measure:
 This measure indicates the rate of self-reported smoking in samples of students in grades 9-12 voluntarily participating in the Youth Risk Behavioral Survey (YRBS). LLCHD conducts the YRBS every other year in Lincoln and Lancaster County high schools; the Nebraska Department of Health and Human Services conducts the YRBS every other year in high schools across the state.
