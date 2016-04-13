@@ -9,11 +9,11 @@ Performance-based budgeting is the allocation of funds based on programmatic res
 
 After hearing the call for a new way to budget, Johns Hopkins University Center for Government Excellence has created this guide, detailing performance-based budgeting and describing how it can be tied into new or existing performance management and analytics programs. By learning from the experiences of other cities and following the steps described in this guide, cities will have a greater understanding of performance-based budgeting and be well on their way to rethinking how budgeting can work for them.
 
-<hr>
+---
 Terminology
 
 What GovEx refers to as performance-based budgeting is known by a variety of names: outcome-based budgeting, results-based budgeting, or priority-based budgeting. All of these terms indicate a focus on increasing the use of data and evidence to improve the allocation of resources and achieve programmatic and community goals. This guide uses performance-based budgeting for the sake of clarity and consistency.
-<hr>
+---
 
 Performance-based budgeting allows cities to strengthen the budgetary process in light of competing claims for resources by using objective criteria to:
 
@@ -112,7 +112,7 @@ Lincoln, NE, tracks its budget allocations in executive leadership meetings and 
 
 Performance management is a natural precursor to performance-based budgeting. The focus on using data and evidence to understand which programs and initiatives are furthering progress towards goals should lead an organization to think about which programs and initiatives should be funded. Many cities are building on existing performance management efforts to expand into performance-based budgeting. By thinking strategically about how performance-based budgeting aligns to current budgeting efforts, developing clear guidelines for proposals and the revised budgeting process, and building in opportunities for revisioning and monitoring, cities can dramatically shift their budgeting conversations from what should be cut to what should be kept, while building consensus internally and externally for those decisions.
 
-<hr>
+---
 
 ### Worksheet: Guiding Prompts for Performance-Based Budgeting Exploration
 
@@ -135,9 +135,9 @@ Who will be on the team that will review the budget for each priority? Consider 
 
 ---
 
-<hr>
-
 ### Appendix A - Priority Areas in Examples Cities
+
+---
 
 **Baltimore, MD’s Fiscal Priority Outcomes**
 Better Schools
@@ -191,11 +191,11 @@ Education & Workforce Development
 Sustainability & the Natural Environment
 Well Managed Government
 
-<hr>
+---
 
 ### Appendix B - Key Priority Indicators (KPIs)
 
-<hr>
+---
 
 Baltimore, MD, has identified Safer Streets, which makes up 33% of Baltimore City’s $2.549 billion operating budget, as a priority outcome, with six key strategies that support the priority outcome. The strategies outline diverse agency actions such as code enforcement, zoning classification, outreach to at-risk youth, etc. Five goals support the priority outcome, and each goal is accompanied by a KPI. The KPIs may not be representative of all activities for which an agency is responsible.
 
@@ -250,11 +250,11 @@ Youth continue to experiment with tobacco in succumbing to peer-pressure, tobacc
 
 Source: Lincoln’s [Taking Charge Performance Indicators](http://lincoln.ne.gov/city/mayor/takingcharge/performance-indicators.htm)
 
-<hr>
+---
 
 ### Appendix C - Budget Proposal Funding Criteria
 
-<hr>
+---
 
 For the Safer Streets priority, Baltimore, MD’s Results Team is made up of representatives from the Police Department, Office of Emergency Management, Transportation, Budget Analyst, Health Department, a community member, and a Mayor’s Office liaison. In addition to giving priority consideration of funding to proposals that would advance its goals and strategies, Baltimore requires agencies to respond to the following criteria.
 
@@ -285,11 +285,11 @@ Chattanooga, TN, releases its budget proposal [scoring criteria](https://docs.go
 <tr><td>Approach </td><td> Does the offer choose the optimal route to achieve the outcomes? (Demonstrated with benchmarks, proven methods, partner collaborations, and with clarity on how your solution fits into the larger work on the issue being addressed)</td></tr>
 </table>
 
-<hr>
+---
 
 ### Appendix D: Nonprofit Funding Instructions
 
-<hr>
+---
 
 Chattanooga, TN, includes nonprofits in its performance-based budgeting program, asking them to apply for funding in the same manner as city departments and align their request with one of the city’s six citywide priority areas. Previously, the nonprofits were required to procure a letter of support from the city department leader with whom they would coordinate the spending of city funds. The following is the guidance and requirements from Chattanooga for nonprofit funding requests.
 
@@ -345,11 +345,11 @@ Links:
 - Template B3 – Schedule of Positions, Salaries, and Wages
 - Template B4 – Major Sources of Funding for the Past Five Years
 
-<hr>
+---
 
 ### Appendix E: Additional Resources
 
-<hr>
+---
 
 Government Accounting Office’s [“Performance Budgeting: Current Developments and Future Prospects”](http://gao.gov/assets/110/109766.pdf)
 
