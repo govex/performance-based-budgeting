@@ -66,7 +66,7 @@ City leaders were impressed by the number of stakeholder participants these even
 
 <p align="center"> <strong> Example of ChattaData Goal Taxonomy from Budgeting Training </strong> </p>
 
-<table>
+<table class="table">
 <tr align=center><td>Citywide Priority <br /> Safer Streets </td></tr>
 <tr align=center><td>Citywide Goal <br /> Reduce Violent Crime by 20% by June 30, 2016</td></tr>
 <tr align=center><td>Citywide Key Performance Indicator (KPI) <br /> Average Monthly Violent Crime Incidents</td></tr>
