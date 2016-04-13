@@ -1,0 +1,10 @@
+.table-center {
+    display: inline;
+    text-align: center;
+}
+
+.image-center {
+    display: inline;
+    margin-left: auto;
+    margin-right: auto
+  }
