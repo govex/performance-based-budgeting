@@ -7,9 +7,11 @@ Performance-based budgeting is the allocation of funds based on programmatic res
 After hearing the call for a new way to budget, Johns Hopkins University Center for Government Excellence has created this guide, detailing performance-based budgeting and describing how it can be tied into new or existing performance management and analytics programs. By learning from the experiences of other cities and following the steps described in this guide, cities will have a greater understanding of performance-based budgeting and be well on their way to rethinking how budgeting can work for them.
 
 ---
+
 Terminology
 
 What GovEx refers to as performance-based budgeting is known by a variety of names: outcome-based budgeting, results-based budgeting, or priority-based budgeting. All of these terms indicate a focus on increasing the use of data and evidence to improve the allocation of resources and achieve programmatic and community goals. This guide uses performance-based budgeting for the sake of clarity and consistency.
+
 ---
 
 Performance-based budgeting allows cities to strengthen the budgetary process in light of competing claims for resources by using objective criteria to:
