@@ -1,6 +1,6 @@
 ### Appendix D: Nonprofit Funding Instructions
 
-<hr>
+---
 
 Chattanooga, TN, includes nonprofits in its performance-based budgeting program, asking them to apply for funding in the same manner as city departments and align their request with one of the city’s six citywide priority areas. Previously, the nonprofits were required to procure a letter of support from the city department leader with whom they would coordinate the spending of city funds. The following is the guidance and requirements from Chattanooga for nonprofit funding requests.
 

@@ -1,6 +1,6 @@
 ### Appendix C - Budget Proposal Funding Criteria
 
-<hr>
+---
 
 For the Safer Streets priority, Baltimore, MD’s Results Team is made up of representatives from the Police Department, Office of Emergency Management, Transportation, Budget Analyst, Health Department, a community member, and a Mayor’s Office liaison. In addition to giving priority consideration of funding to proposals that would advance its goals and strategies, Baltimore requires agencies to respond to the following criteria.
 

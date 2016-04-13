@@ -1,6 +1,6 @@
 ### Appendix B - Key Priority Indicators (KPIs)
 
-<hr>
+---
 
 Baltimore, MD, has identified Safer Streets, which makes up 33% of Baltimore City’s $2.549 billion operating budget, as a priority outcome, with six key strategies that support the priority outcome. The strategies outline diverse agency actions such as code enforcement, zoning classification, outreach to at-risk youth, etc. Five goals support the priority outcome, and each goal is accompanied by a KPI. The KPIs may not be representative of all activities for which an agency is responsible.
 

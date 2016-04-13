@@ -1,6 +1,6 @@
 ### Appendix E: Additional Resources
 
-<hr>
+---
 
 Government Accounting Office’s [“Performance Budgeting: Current Developments and Future Prospects”](http://gao.gov/assets/110/109766.pdf)
 
