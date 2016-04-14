@@ -4,12 +4,12 @@ Since cities already have budget processes that have been in place for decades, 
 
 In 2011, Baltimore, MD, was very clear in messaging the move to [performance-based budgeting](http://bbmr.baltimorecity.gov/OutcomeBudgeting.aspx) to city staff and officials and aligning this process to its previous budgeting schedule. This required [reframing the budget conversation](http://www.aabpa.org/assets/Symposia/2014_Summer_Symposium_July10-2014/kleine_outcome%20budgeting%20in%20baltimore%20aabpa%207.10.14.pdf) from considering last year’s spending on agency goals and debating what to cut to focusing on next year’s strategic goals for citywide priorities and debating what is worth keeping in the budget. In Baltimore, performance-based budgeting is connected to its CitiStat program, strategic plan, and agency performance agreements and aligns with the city’s goal of being a performance-based city so it seemed like a natural addition to city staff.
 
-<img src= "https://github.com/govex/performance-based-budgeting/blob/master/Images/baltimoreoldwaynewway.png">
+<img src="http://govex.jhu.edu/content/uploads/2016/04/baltimoreoldwaynewway.png">
 
 Source: http://www.aabpa.org/assets/Symposia/2014_Summer_Symposium_July10-2014/kleine_outcome%20budgeting%20in%20baltimore%20aabpa%207.10.14.pdf
 
 Providing timelines and coaching to explain how performance management fits in with the existing budget process is the first step to ensuring that departments and agencies understand and use performance-based budgeting effectively. Baltimore, like many cities, has historically had a long and detailed process for developing and submitting agency budgets, beginning in September and lasting through July when the budget is adopted. To make it easier for agencies to align their budget requests with the performance-based budgeting and performance metrics, Baltimore’s budget office includes step-by-step guidance for agencies detailing the mayor’s priority outcomes (see Appendix A for examples of citywide priorities in performance-based budgeting), informed by the [annual citizen survey](http://bbmr.baltimorecity.gov/OutcomeBudgeting/CitizenSurvey.aspx), and indicators of emphasis for the fiscal year budget process. By clearly defining the [budgeting expectations and process](http://www.businessofgovernment.org/blog/business-government/baltimores-outcome-budgeting-approach) up front, the city ensured staff participation and buy-in, reconciling a [$500 million budget deficit](http://results4america.org/city-baltimore-use-evidence-data-fact-sheet/) in four fiscal years.
 
-<img src="https://github.com/govex/performance-based-budgeting/blob/master/Images/BaltimoreOBprocess.jpg">
+<img src="http://govex.jhu.edu/content/uploads/2016/04/BaltimoreOBprocess.jpg>
 
 Source: http://bbmr.baltimorecity.gov/OutcomeBudgeting/AboutOutcomeBudgeting.aspx
