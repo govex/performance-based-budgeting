@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
 * [What Is Performance-Based Budgeting?](whatispbb.md)
 * [Principles for Implementation](principles.md)
   * [ Determine a method for aligning performance-based budgeting with the current budget cycle and process and think about messaging the changes internally early in the process.](alignmenttoprocess.md)
