@@ -1,8 +1,9 @@
-# **Performance-Based Budgeting**
+**Performance-Based Budgeting**
+------------------------
 ## by Lena Geraghty and Katherine Klosek
 
 with contributions from Kristen Ahearn and Carter Hewgley
-------------------------
+
 ### What Is Performance-Based Budgeting?
 
 Performance-based budgeting is the allocation of funds based on programmatic results that contribute to organizational goals. For governments, performance-based budgeting uses evidence to maximize the allocation of funds toward programs that work and away from those that don’t. Performance-based budgeting is not intended to punish or reward departments or agencies, but instead to focus on progress toward measurable goals during the budget process. This approach allows cities to make and justify budgetary changes that meet community needs and advance citywide priorities, instead of defaulting to the status quo.
