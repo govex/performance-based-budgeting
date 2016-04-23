@@ -1,5 +1,5 @@
 ### Performance-Based Budgeting
-##### by Lena Geraghty and Katherine Klosek
+**by Lena Geraghty and Katherine Klosek**
 with contributions from Kristen Ahearn and Carter Hewgley
 
 ---
