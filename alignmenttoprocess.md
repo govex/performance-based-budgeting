@@ -14,4 +14,4 @@ Providing timelines and coaching to explain how performance management fits in w
 
 ![](https://raw.githubusercontent.com/govex/performance-based-budgeting/master/Images/BaltimoreOBprocess.jpg)
 
-Source: [Outcome Budgeting in Baltimore ](http://www.aabpa.org/assets/Symposia/2014_Summer_Symposium_July10-2014/kleine_outcome%20budgeting%20in%20baltimore%20aabpa%207.10.14.pdf)
+Source: [Outcome Budgeting in Baltimore ](https://bbmr.baltimorecity.gov/flight-front)
